@@ -1,0 +1,17 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local-only notes and secrets
+CLAUDE*.md
+.env
+credentials.json
+token.json
+
+# Temporary / generated
+.tmp/
+node_modules/
+__pycache__/
+*.pyc
