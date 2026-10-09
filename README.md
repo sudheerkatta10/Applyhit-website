@@ -34,7 +34,7 @@ Upload or publish the **`public/`** folder to any static host (GitHub Pages, Net
 
 ## Contact form
 
-The "Send a request" form sends submissions to **applyhit01@gmail.com** through [FormSubmit](https://formsubmit.co/) — no server or account needed.
+The "Send a request" form sends submissions to **team.applyhit@gmail.com** through [FormSubmit](https://formsubmit.co/) — no server or account needed.
 
 - FormSubmit only delivers after the inbox owner clicks the **Activate Form** link it emails on first use. If the site moves to a new domain, it may ask to activate again.
 - If FormSubmit can't be reached, the form opens the visitor's email app with their message pre-filled, addressed to the same inbox.
